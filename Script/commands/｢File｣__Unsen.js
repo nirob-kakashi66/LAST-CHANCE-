@@ -3,9 +3,9 @@ module.exports.config = {
   version: "1.0.1",
   hasPermssion: 0,
   credits: " ",
-  description: "Unsend Message",
+  description: "Uns Message",
   commandCategory: "user",
-  usages: "unsend",
+  usages: "uns",
   cooldowns: 0
 };
 
